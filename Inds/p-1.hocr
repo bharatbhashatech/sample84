@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+<meta content="tesseract 4.1.1" name="ocr-system"/>
+<meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+</head>
+<body>
+<div class="ocr_page" id="page_1" title='image "/home/bhashini/leap-django-backend/udaan-deploy-pipeline/output_books/sample84/MaskedImages/p-1_filtered.jpg"; bbox 0 0 2550 3301; ppageno 0'>
+<div class="ocr_carea" id="block_1_1" title="bbox 485 296 2115 439">
+<p class="ocr_par" id="par_1_1" lang="eng" title="bbox 485 296 2115 439">
+<span class="ocr_line" id="line_1_1" title="bbox 539 296 2062 350; baseline 0 -13; x_size 54; x_descenders 13; x_ascenders 12">
+<span class="ocrx_word" id="word_1_1" title="bbox 539 297 673 337; x_wconf 55">113</span>
+<span class="ocrx_word" id="word_1_2" title="bbox 691 297 905 350; x_wconf 96">Meeting</span>
+<span class="ocrx_word" id="word_1_3" title="bbox 921 296 975 337; x_wconf 95">of</span>
+<span class="ocrx_word" id="word_1_4" title="bbox 985 296 1069 337; x_wconf 96">the</span>
+<span class="ocrx_word" id="word_1_5" title="bbox 1086 296 1322 350; x_wconf 96">Standing</span>
+<span class="ocrx_word" id="word_1_6" title="bbox 1338 297 1629 337; x_wconf 96">Committee</span>
+<span class="ocrx_word" id="word_1_7" title="bbox 1649 296 1773 349; x_wconf 59">(05</span>
+<span class="ocrx_word" id="word_1_8" title="bbox 1788 296 1891 350; x_wconf 95">July</span>
+<span class="ocrx_word" id="word_1_9" title="bbox 1907 296 2062 349; x_wconf 96">2022)</span>
+</span>
+<span class="ocr_line" id="line_1_2" title="bbox 485 385 2115 439; baseline 0 -13; x_size 54; x_descenders 13; x_ascenders 12">
+<span class="ocrx_word" id="word_1_10" title="bbox 485 386 581 426; x_wconf 96">List</span>
+<span class="ocrx_word" id="word_1_11" title="bbox 597 385 651 426; x_wconf 96">of</span>
+<span class="ocrx_word" id="word_1_12" title="bbox 663 386 973 426; x_wconf 95">Institutions</span>
+<span class="ocrx_word" id="word_1_13" title="bbox 991 385 1389 426; x_wconf 96">Recommended</span>
+<span class="ocrx_word" id="word_1_14" title="bbox 1407 387 1495 426; x_wconf 96">For</span>
+<span class="ocrx_word" id="word_1_15" title="bbox 1509 385 1874 426; x_wconf 96">Accreditation</span>
+<span class="ocrx_word" id="word_1_16" title="bbox 1890 385 1955 439; x_wconf 93">by</span>
+<span class="ocrx_word" id="word_1_17" title="bbox 1971 386 2115 426; x_wconf 91">NAAC</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_2" title="bbox 246 546 1408 674">
+<p class="ocr_par" id="par_1_2" lang="eng" title="bbox 246 546 1408 674">
+<span class="ocr_line" id="line_1_3" title="bbox 1195 546 1408 596; baseline 0 -12; x_size 50; x_descenders 12; x_ascenders 11">
+<span class="ocrx_word" id="word_1_18" title="bbox 1195 546 1266 584; x_wconf 64">2d</span>
+<span class="ocrx_word" id="word_1_19" title="bbox 1282 546 1408 596; x_wconf 95">Cycle</span>
+</span>
+<span class="ocr_line" id="line_1_4" title="bbox 246 627 665 674; baseline 0 -11; x_size 47; x_descenders 11; x_ascenders 11">
+<span class="ocrx_word" id="word_1_20" title="bbox 246 627 462 663; x_wconf 96">Affiliated</span>
+<span class="ocrx_word" id="word_1_21" title="bbox 477 628 665 674; x_wconf 95">Colleges</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_3" title="bbox 1658 1254 1977 1365">
+<p class="ocr_par" id="par_1_3" lang="eng" title="bbox 1658 1254 1977 1365">
+<table border="1" class="ocr_tab" style="margin: 0px auto; text-align: center;" title="bbox 216 700 2203 1133"><tr><td title="bbox 244 703 311 794">SI.
+No.
+</td><td title="bbox 366 703 485 790">AISHE
+Code
+</td><td title="bbox 861 725 1175 774">Name of the HEI
+</td><td title="bbox 1660 732 1771 764">State
+</td><td title="bbox 1928 726 2034 767">CGPA
+</td><td title="bbox 2068 728 2187 770">Grade
+</td></tr><tr><td title="bbox 260 834 303 875">1
+</td><td title="bbox 348 830 498 869">C-41429
+</td><td title="bbox 1938 833 2018 870">3.22
+</td><td title="bbox 2098 835 2149 872">A
+</td><td></td><td></td></tr><tr><td title="bbox 263 924 307 969">2
+</td><td title="bbox 354 921 496 968">C-41107
+</td><td title="bbox 550 916 1473 970">D J ACADEMY FOR MANAGERIAL EXCELLENCE, COIMBATORE
+</td><td title="bbox 1602 923 1824 967">TAMILNADU
+</td><td title="bbox 1939 926 2021 966">2.75
+</td><td title="bbox 2094 922 2157 969">B+
+</td></tr><tr><td title="bbox 263 1018 307 1063">3
+</td><td title="bbox 350 1014 498 1060">C-12612
+</td><td title="bbox 535 998 1435 1091">DEEN DAYAL UPADHYAY GOVERNMENT POST GRADUATE
+COLLEGE, SITAPUR
+</td><td title="bbox 1573 1006 1870 1078">UTTAR PRADESH
+</td><td title="bbox 1936 1018 2020 1061">2.07
+</td><td title="bbox 2101 1017 2156 1063">B
+</td></tr></table><img class="ocr_im" src="..//Cropped_Images/figure_1_0.jpg" title="bbox 377 959 2251 2560"/><span class="ocr_line" id="line_1_5" title="bbox 1799 1254 1886 1297; baseline 0 -10; x_size 39.5; x_descenders 6.5; x_ascenders 9.5">
+<span class="ocrx_word" id="word_1_22" title="bbox 1799 1254 1886 1297; x_wconf 92">Sd/-</span>
+</span>
+<span class="ocr_line" id="line_1_6" title="bbox 1658 1327 1977 1365; baseline 0 -6; x_size 38; x_descenders 6; x_ascenders 9">
+<span class="ocrx_word" id="word_1_23" title="bbox 1658 1327 1847 1365; x_wconf 93">Director,</span>
+<span class="ocrx_word" id="word_1_24" title="bbox 1861 1327 1977 1359; x_wconf 93">NAAC</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_4" title="bbox 250 3076 1198 3113">
+<p class="ocr_par" id="par_1_4" lang="eng" title="bbox 250 3076 1198 3113">
+<span class="ocr_line" id="line_1_7" title="bbox 250 3076 1198 3113; baseline 0 -9; x_size 36; x_descenders 8; x_ascenders 10">
+<span class="ocrx_word" id="word_1_25" title="bbox 250 3076 333 3104; x_wconf 95">113th</span>
+<span class="ocrx_word" id="word_1_26" title="bbox 344 3078 477 3112; x_wconf 96">Meeting</span>
+<span class="ocrx_word" id="word_1_27" title="bbox 471 3072 520 3117; x_wconf 96">of</span>
+<span class="ocrx_word" id="word_1_28" title="bbox 528 3077 579 3104; x_wconf 96">the</span>
+<span class="ocrx_word" id="word_1_29" title="bbox 592 3077 737 3113; x_wconf 95">Standing</span>
+<span class="ocrx_word" id="word_1_30" title="bbox 748 3078 927 3104; x_wconf 93">Committee</span>
+<span class="ocrx_word" id="word_1_31" title="bbox 941 3076 1018 3112; x_wconf 52">(05*</span>
+<span class="ocrx_word" id="word_1_32" title="bbox 1029 3077 1092 3112; x_wconf 96">July</span>
+<span class="ocrx_word" id="word_1_33" title="bbox 1102 3077 1198 3112; x_wconf 96">2022)</span>
+</span>
+</p>
+</div>
+</div>
+</body>
+</html>
